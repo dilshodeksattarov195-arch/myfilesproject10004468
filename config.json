@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordersonnect",
+        "uuid": 19257080,
+        "checksum": "r221wy"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
